@@ -1,2 +1,2 @@
-# Apna-collage
-This is my learning repository 
+Working for prctice:
+Author - Ankur
